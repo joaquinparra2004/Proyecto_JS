@@ -13,3 +13,15 @@ console.log(bestStadium);
 //  CONST - definir variables imutables con un alcance a su bloque mas cercano
 const bestPlayer = 'Juan Roman Riquelme 10';
 console.log(bestPlayer);
+
+
+
+// Array 
+
+//Creando array 
+let array = ['Boca Juniors', 'River', 'Independiente', 'Racing', 'San Lorenzo'];
+
+//Recorriendo array  
+for (i = 0; i < 5; i++) {
+    console.log(array[i]);
+}
